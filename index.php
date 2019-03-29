@@ -16,6 +16,4 @@
   return $html;
 }
 
-echo "Hello"; //comment
-echo "function";
 ?>
